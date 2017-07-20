@@ -1,0 +1,2 @@
+# NumberGenerator
+Sample Maven Test
